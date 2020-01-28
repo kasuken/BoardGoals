@@ -41,7 +41,7 @@ Read 3 not related tech books
 
 ## Goal 5 📖 ![](https://img.shields.io/badge/progress-50%25-yellow.svg)
 
-- [ ] Finish my book about Impostor Syndrome
+- [ ] Finish to write my book about Impostor Syndrome
 
 ---
 
