@@ -31,7 +31,15 @@ Write 30 articles on blog
 - [Debug with Visual Studio using all browsers in incognito mode](https://dev.to/expertsinside/debug-with-visual-studio-using-all-browsers-in-incognito-mode-57mb)
 - [Disable footer on Office 365 Communication Sites](https://dev.to/expertsinside/disable-footer-on-office-365-communication-sites-25ki)
 
-## Goal 4 📚 ![](https://img.shields.io/badge/progress-0%25-red.svg)
+## Goal 4 🏆 ![](https://img.shields.io/badge/progress-0%25-red.svg)
+
+Reach 3 Microsoft Certifications
+
+- [ ] Microsoft Certified Azure Fundamentals - AZ900
+- [ ] Microsoft Certified: Azure Developer Associate - AZ203
+- [ ] Microsoft 365 Certified: Developer Associate - MS-600
+
+## Goal 5 📚 ![](https://img.shields.io/badge/progress-0%25-red.svg)
 
 Read 3 not related tech books
 
@@ -39,7 +47,7 @@ Read 3 not related tech books
 - [ ] La Storia Infinita
 - [ ] Origin
 
-## Goal 5 📖 ![](https://img.shields.io/badge/progress-50%25-yellow.svg)
+## Goal 6 📖 ![](https://img.shields.io/badge/progress-50%25-yellow.svg)
 
 - [ ] Finish to write my book about Impostor Syndrome
 
