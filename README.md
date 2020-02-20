@@ -12,7 +12,7 @@ Finish one Ironman Race
 
 - [ ] Ironman Thun
 
-## Goal 2 👨‍💻 ![](https://img.shields.io/badge/progress-40%25-yellow.svg)
+## Goal 2 👨‍💻 ![](https://img.shields.io/badge/progress-50%25-yellow.svg)
 
 Create or work on 10 opensource projects
 
@@ -20,6 +20,7 @@ Create or work on 10 opensource projects
 - [x] [kasuken/devtopostsscheduler](https://github.com/kasuken/DevToPostsScheduler)
 - [x] [kasuken/sonequabot](https://github.com/kasuken/sonequabot)
 - [x] [kasuken/azureresourcescleaner](https://github.com/kasuken/AzureResourcesCleaner) 
+- [x] [expertsinside/linkchecker](https://github.com/expertsinside/LinkChecker) 
 
 ## Goal 3 ✍🏻 ![](https://img.shields.io/badge/progress-16%25-yellow.svg)
 
