@@ -36,9 +36,9 @@ Write 30 articles on blog
 
 Reach 3 Microsoft Certifications
 
-- [ ] Microsoft Certified Azure Fundamentals - AZ900
+- [ ] Microsoft Certified: Azure Fundamentals - AZ900
 - [ ] Microsoft Certified: Azure Developer Associate - AZ203
-- [ ] Microsoft 365 Certified: Developer Associate - MS-600
+- [ ] Microsoft Certified: Azure DevOps Engineer Expert - MS-400
 
 ## Goal 5 📚 ![](https://img.shields.io/badge/progress-0%25-red.svg)
 
