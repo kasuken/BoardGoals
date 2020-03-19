@@ -32,7 +32,7 @@ Write 30 articles on blog
 - [Debug with Visual Studio using all browsers in incognito mode](https://dev.to/expertsinside/debug-with-visual-studio-using-all-browsers-in-incognito-mode-57mb)
 - [Disable footer on Office 365 Communication Sites](https://dev.to/expertsinside/disable-footer-on-office-365-communication-sites-25ki)
 
-## Goal 4 🏆 ![](https://img.shields.io/badge/progress-0%25-red.svg)
+## Goal 4 🏆 ![](https://img.shields.io/badge/progress-33%25-yellow.svg)
 
 Reach 3 Microsoft Certifications
 
