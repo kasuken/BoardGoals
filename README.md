@@ -38,7 +38,7 @@ Reach 3 Microsoft Certifications
 
 - [x] Microsoft Certified: Azure Fundamentals - AZ900
 - [ ] Microsoft Certified: Developing Solutions for Microsoft Azure (beta) - AZ204
-- [ ] Microsoft Certified: Azure DevOps Engineer Expert - MS400
+- [ ] Microsoft Certified: Azure DevOps Engineer Expert - AZ400
 
 - [ ] BONUS: Microsoft Certified: Azure Security Engineer Associate - AZ500
 - [ ] SUPER BONUS: Become MCT
