@@ -10,7 +10,7 @@ The due date for this Board Goals is **31/12/2020**.
 
 Finish one Ironman Race
 
-- [ ] Ironman Thun
+- [ ] Ironman Thun -- the race is postponed to 2012 because of Covid --
 
 ## Goal 2 👨‍💻 ![](https://img.shields.io/badge/progress-50%25-yellow.svg)
 
