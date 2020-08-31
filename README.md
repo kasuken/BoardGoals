@@ -37,6 +37,7 @@ Write 30 articles on blog
 Reach 3 Microsoft Certifications
 
 - [x] Microsoft Certified: Azure Fundamentals - AZ900
+- [x] Microsoft Certified: Building Applications and Solutions with Microsoft 365 Core Services - AZ600
 - [ ] Microsoft Certified: Developing Solutions for Microsoft Azure (beta) - AZ204
 - [ ] Microsoft Certified: Azure DevOps Engineer Expert - AZ400
 
